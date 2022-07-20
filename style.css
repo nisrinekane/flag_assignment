@@ -1,0 +1,32 @@
+.stripe:nth-child(even) {
+    background-color: #BF0A30;
+    display: block;
+    height: 50px;
+}
+
+.stripe:nth-child(odd) {
+    background-color: #fff;
+    display: block;
+    height: 50px;
+}
+
+.blue-block {
+    background-color: #002868;
+    width: 494px;
+    height: 350px;
+    position: absolute;
+    padding-left: 10px;
+}
+
+
+.star {
+    color: white;
+    font-size: 32px;
+    line-height: 1em;
+    padding: 4px 5px 0 5px;
+}
+
+table {
+    padding: 1 0px 1px 0;
+}
+
